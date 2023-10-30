@@ -1,0 +1,31 @@
+assalamualaikum bapak franky, mohon maaf baru membalas karena saya sedang memikirkan kata yang tepat untuk menggambarkan prosesnya
+
+sedikit gambaran, skripsi saya adalah pendeteksian kecemasan menggunakan sensor PPG dengan 2 variabel yang saya pakai di penelitian ini (HR,HRV).
+data yang saya gunakan dalam penelitian ini adalah sebanyak 33 (normal = 7, ringan = 5, sedang = 9, parah = 9, sangat parah	= 3).
+akurasi dari penelitian ini adalah sekitar 50%.
+
+karena saya kurang puas dengan akurasinya saya menambah jumlah variabel menjadi 7 variabel pak (BPM, HRV, VAR, STD, SISTOL, DIASTOL, DISTANC).
+serta saya windowing datanya sebanyak 20 detik dan window stepnya juga sebanyak 20 detik sehingga 1 orang memiliki data sebanyak 9 (180 detik / 20 detik).
+saya menggunakan machine learning berjenis KNN dengan tetangga terdekat sebanyak 7.
+diperoleh hasil akurasi 73% pak.
+
+yang ingin saya tanyakan, apakah tidak mengapa ketika saya menambah jumlah variabel di tengah jalan penelitian seperi ini, dan menurut bapak franky bagaimana dengan lanngkah windowing data saya pak?
+
+terima kasih atas waktunya bapak franky, wassalamualaikum
+
+--------------------------------------------------------------------------------------------------------------------------
+
+assalamualaikum ibu riries, mohon ijin untuk memaparkan proses pengerjaan skripsi saya selama 2 bulan ini bu
+
+sedikit gambaran, skripsi saya adalah pendeteksian kecemasan menggunakan sensor PPG dengan 2 variabel yang saya pakai di penelitian ini (HR,HRV).
+data yang saya gunakan dalam penelitian ini adalah sebanyak 33 (normal = 7, ringan = 5, sedang = 9, parah = 9, sangat parah	= 3).
+akurasi dari penelitian ini adalah sekitar 50%.
+
+karena saya kurang puas dengan akurasinya, saya menambah jumlah variabel menjadi 7 variabel bu (BPM, HRV, VAR, STD, SISTOL, DIASTOL, DISTANC).
+serta saya windowing datanya sebanyak 20 detik dan window stepnya juga sebanyak 20 detik sehingga 1 orang memiliki data sebanyak 9 (180 detik / 20 detik).
+saya menggunakan machine learning berjenis KNN dengan tetangga terdekat sebanyak 7.
+diperoleh hasil akurasi 73% bu.
+
+yang ingin saya tanyakan, apakah tidak mengapa ketika saya menambah jumlah variabel di tengah jalan penelitian seperi ini, dan menurut ibu riries bagaimana dengan langkah windowing data saya bu?
+
+terima kasih atas waktunya ibu riries, wassalamualaikum
