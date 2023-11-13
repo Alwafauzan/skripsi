@@ -1,0 +1,17 @@
+assalamualaikum bapak alfian
+mohon maaf atas keterlambatannya dalam mengumpulkan revisi proposal skripsi
+
+poin - poin yang saya ubah dalam revisi kali ini adalah :
+1. mengubah judul menjadi "SISTEM PENDETEKSIAN KECEMASAN MELALUI DETAK 
+JANTUNG DENGAN SENSOR PHOTOPLETHYSMOGRAPHY 
+(PPG) BERBASIS NODE MCU" menghilangkan kata "stres" dan "depresi"
+2. pengisian LEMBAR PENGESAHAN NASKAH PROPOSAL
+3. pengisian KATA PENGANTAR
+4. penomoran naskah
+5. penyambungan paragraf BAB I
+6. mengubah rumusan masalah dan batasan masalah
+7. merapikan tab kalimat
+8. menghilangkan beberapa materi (stres, depresi, database, interface)
+
+sebenarnya ada beberapa perubahan lagi yang saya terapkan seperti jenis filter,proses windowing, serta fitur ekstraksi yang saya tambah ("HR", "HRV" menjadi "HR", "HRV", "VAR", "STD", "SISTOL", "DIASTOL", "DISTANCE"). 
+terapi saya mohon maaf untuk tidak melampirkan pada revisi proposal dikarenakan 
