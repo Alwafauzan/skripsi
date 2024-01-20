@@ -1,0 +1,10 @@
+1. memperbaiki kata pengantar
+2. memperbaiki sitasi
+3. memperbaiki daftar tabel dan gambar yang tidak pada tempatnya
+4. memperbaiki font yang tidak sesuai
+
+5. menambahkan gambar port yang dipakai pulse sensor dan esp32 pada bab 4 sub bab hardware
+6. menceritakan proses 90 responden menuju 33 responden pada bab 4 sub bab pengumpulan data 
+7. menambah naraasi proses windowing
+8. menambah narasi proses filtering
+9. 
